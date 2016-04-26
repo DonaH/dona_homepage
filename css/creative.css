@@ -3,6 +3,9 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+#base_plate{
+  background-color: rgba(0,0,0,0.33);
+}
 
 html,
 body {
@@ -43,6 +46,7 @@ h4,
 h5,
 h6 {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    vertical-align: middle;
 }
 
 p {
