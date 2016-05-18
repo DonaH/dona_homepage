@@ -1,3 +1,13 @@
+@keyframes cursor {
+  0% { opacity : 1;}
+  100% { opacity : 0;}
+}
+
+#cursor {
+  animation:cursor 0.5s infinite;
+  font-weight:bold;
+}
+
 #base_plate{
   background-color: rgba(0,0,0,0.33);
 }
