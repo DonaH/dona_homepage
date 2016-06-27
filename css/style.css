@@ -59,3 +59,26 @@
   align-items: center;
   font-size: 130%;
 }
+.logos {
+  width: 50;
+  height:50;
+  display:inline;
+}
+.img_wrap {
+    background-color: #fff;
+    width: 166px;
+    padding: 16px;
+    margin: 16px;
+    margin-right: 0px;
+    float: right;
+    vertical-align: middle;
+    text-align: center;
+}
+.fa-stack {
+    position: relative;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    vertical-align: middle;
+}
