@@ -28,7 +28,7 @@
     });
 
     // Randomize background-image
-    var images = ['telescopela.jpg', 'griffith_observatory.jpg', 'working_space.jpg'];
+    var images = ['disney_concert_hall.jpg', 'griffith_observatory.jpg', 'working_space.jpg', 'telescopela.jpg'];
     $('header').css({'background-image': 'url(img/' + images[Math.floor(Math.random() * images.length)] + ')'
     });
 
